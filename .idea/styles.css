@@ -1,0 +1,7 @@
+.ul{
+  list-style-position: inside;
+
+}
+table, th, td{
+  border: #222222;
+}
